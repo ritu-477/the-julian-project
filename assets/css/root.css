@@ -48,6 +48,8 @@
     --fc-black600: #555555;
     --fc--brown500: #544d40;
     --fc--brown600: #4c3812;
+    --fc--brown700: #4d4d4d;
+    --fc--black700: #000000;
 
 }
 
@@ -78,6 +80,14 @@
 
     .apply {
         --fs-xxl: 26px;
+    }
+
+    .lorem1 {
+        --fs-xmd: 14px;
+    }
+
+    .application {
+        --fs-lg: 20px;
     }
 }
 
@@ -180,5 +190,17 @@
 
     .para-4 {
         --fs-xmd: 13px;
+    }
+
+    .group {
+        --fs-xmd: 14px;
+    }
+
+    .lorem1 {
+        --fs-xmd: 12px;
+    }
+
+    .application {
+        --fs-lg: 18px;
     }
 }
